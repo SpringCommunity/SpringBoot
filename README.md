@@ -18,7 +18,7 @@ After that in project folderroot, run command
 
 Open clipse and import your project into eclipse
 
-in base package create a configuration class SpringBootApplication and we configure our project from there
+in base package create a configuration class AppConfiguration and we configure our project from there
 
 #Note: recommend use Spring Tool Suite to create project
 
