@@ -1,6 +1,6 @@
 
 #Tutorial: setup project using Spring Boot 
-#Content: show how to configure a project using annotation in Spring Framework
+#Content: show how to configure a project using Spring boot in Spring Framework
 #Date created: Monday 30 Jan 2017                                   
 #Author: Dinh Duc                    
 #Coppyright © Spring Community                       
